@@ -12,4 +12,4 @@ Build a small app with the following features:
 - Updates information in CoreData with pull-to-refresh gesture (data is always pulled from the server and locally created contacts should remain unchanged)
 - Adaptive design for all iPhone/iPad sizes (Autolayout)
 
-
+![photo_2019-03-30 00 03 13](https://user-images.githubusercontent.com/26981342/55267015-100ba180-5280-11e9-8391-265baea3aff0.jpeg)
