@@ -1,5 +1,5 @@
 # Simple-Names
-Test project from German company
+Test task from German company
 
 # TASK
 Build a small app with the following features:
